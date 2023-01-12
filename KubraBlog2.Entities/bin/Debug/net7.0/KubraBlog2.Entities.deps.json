@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "KubraBlog2.Entities/1.0.0": {
+        "runtime": {
+          "KubraBlog2.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KubraBlog2.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
