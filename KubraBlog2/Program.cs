@@ -3,6 +3,8 @@ using KubraBlog2.Data.Abstract;
 using KubraBlog2.Data.Concrete;
 using KubraBlog2.Service.Abstract;
 using KubraBlog2.Service.Concrete;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Server.HttpSys;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +18,19 @@ builder.Services.AddDbContext<DatabaseContext>(); // veritabaný tablolarýmýz�
 builder.Services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddTransient(typeof(IService<>), typeof(Service<>));
 //builder.Services.AddSingleton<IPostService, PostService>();
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(x=>
+{
+    x.LoginPath = "/Admin/Login";
+    x.AccessDeniedPath= "/AccessDenied";
+    x.LogoutPath = "/Admin/Login/Logout";
+    x.Cookie.Name = "Administrator";
+    x.Cookie.MaxAge = TimeSpan.FromDays(1);
+
+}
+    
+    
+    );
 
 
 
@@ -33,6 +48,8 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

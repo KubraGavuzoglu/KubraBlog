@@ -1,13 +1,14 @@
 ﻿using KubraBlog.WebUI.Utils;
 using KubraBlog2.Entities;
 using KubraBlog2.Service.Abstract;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace KubraBlog.WebUI.Areas.Admin.Controllers
 {
-    [Area("Admin")]
+    [Area("Admin"),Authorize]
     public class PostController : Controller
     {
         private readonly IService<Post> _service;

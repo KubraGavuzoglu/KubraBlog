@@ -1,5 +1,6 @@
 ﻿using KubraBlog2.Entities;
 using KubraBlog2.Service.Abstract;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

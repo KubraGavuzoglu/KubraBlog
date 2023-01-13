@@ -29,8 +29,8 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
       "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\js\\site.js",
@@ -263,6 +263,82 @@
     {
       "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages.zip",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages.zip"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\401.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\404.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\500.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\charts.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\index.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-static.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\password.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\tables.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\tables.html"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.KubraBlog.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",

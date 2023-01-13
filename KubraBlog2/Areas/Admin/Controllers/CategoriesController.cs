@@ -1,10 +1,11 @@
 ﻿using KubraBlog2.Entities;
 using KubraBlog2.Service.Abstract;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace KubraBlog.WebUI.Areas.Admin.Controllers
 {
-    [Area("Admin")]
+    [Area("Admin"),Authorize]
     public class CategoriesController : Controller
     {
 
