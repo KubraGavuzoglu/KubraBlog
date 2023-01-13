@@ -271,6 +271,7 @@ C:\Users\Asus\Desktop\VisualStudioProjeler\KubraBlog-2\KubraBlog2\KubraBlog2\obj
 C:\Users\Asus\Desktop\VisualStudioProjeler\KubraBlog-2\KubraBlog2\KubraBlog2\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\Asus\Desktop\VisualStudioProjeler\KubraBlog-2\KubraBlog2\KubraBlog2\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\Asus\Desktop\VisualStudioProjeler\KubraBlog-2\KubraBlog2\KubraBlog2\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Asus\Desktop\VisualStudioProjeler\KubraBlog-2\KubraBlog2\KubraBlog2\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout3.cshtml.rz.scp.css
 C:\Users\Asus\Desktop\VisualStudioProjeler\KubraBlog-2\KubraBlog2\KubraBlog2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Asus\Desktop\VisualStudioProjeler\KubraBlog-2\KubraBlog2\KubraBlog2\obj\Debug\net7.0\scopedcss\bundle\KubraBlog.WebUI.styles.css
 C:\Users\Asus\Desktop\VisualStudioProjeler\KubraBlog-2\KubraBlog2\KubraBlog2\obj\Debug\net7.0\scopedcss\projectbundle\KubraBlog.WebUI.bundle.scp.css

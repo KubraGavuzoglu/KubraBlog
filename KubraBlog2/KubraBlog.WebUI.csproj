@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Areas\Admin\Views\Shared\index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Areas\Admin\Views\Shared\index.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.2">
       <PrivateAssets>all</PrivateAssets>
@@ -29,6 +40,7 @@
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="wwwroot\Img\" />
     <Folder Include="wwwroot\startbootstrap-sb-admin-gh-pages\css\" />
+    <Folder Include="wwwroot\startbootstrap-sb-admin-gh-pages\js\" />
   </ItemGroup>
 
 </Project>
