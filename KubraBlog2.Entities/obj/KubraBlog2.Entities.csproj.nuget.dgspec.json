@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2.Entities\\KubraBlog2.Entities.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2.Entities\\KubraBlog2.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2.Entities\\KubraBlog2.Entities.csproj": {
+    "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2.Entities\\KubraBlog2.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2.Entities\\KubraBlog2.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2.Entities\\KubraBlog2.Entities.csproj",
         "projectName": "KubraBlog2.Entities",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2.Entities\\KubraBlog2.Entities.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2.Entities\\KubraBlog2.Entities.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

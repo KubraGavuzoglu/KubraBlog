@@ -23,7 +23,7 @@ namespace KubraBlog.WebUI.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> IndexAsync(string email , string password)
+        public async Task<IActionResult> Index(string email , string password)
         {
 
             try
@@ -65,5 +65,15 @@ namespace KubraBlog.WebUI.Areas.Admin.Controllers
 
             return View();
         }
+
+        [Route("Admin/Logout")]
+        public async Task<IActionResult> LogOutAsync()
+        {
+
+            await HttpContext.SignOutAsync();
+
+            return Redirect("/Admin/Login");
+        }
+
     }
 }

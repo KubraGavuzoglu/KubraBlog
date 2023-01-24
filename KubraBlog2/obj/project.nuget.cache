@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BwOgkRyaJzdkZlX6JP27/H3GL2SznDZ3apbbGI6f/QRWVGlU3hz7doF/XNrKtqvVnbw3pUM8UVV+Ofc90aGFhw==",
+  "dgSpecHash": "XJuQwlZHP4A3iyVroIA5gbxwN75RQcG2FXXaFNLFZsrsAowl2QKMGfDLzYWwYe5fJ1f38f89BbL2aMyHyoOa9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\KubraBlog.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\KubraBlog.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

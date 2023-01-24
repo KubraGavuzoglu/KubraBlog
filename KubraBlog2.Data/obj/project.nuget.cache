@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rUeJvIGNd5GPLceGugVcNQSvian7sCOpcj1kEr9WFyXotl/8/E/oDYN51ndnpunBUVx6HECG+uppdwzcGHDs5w==",
+  "dgSpecHash": "QF7un4iXzPMxKzf6BR00a9ml2yr6KBlli1LQeBwcWctR4dqs/QPXx/2G/Le/yNl1KjdszpBg+O2+e8Ky8xEz+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2.Data\\KubraBlog2.Data.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2.Data\\KubraBlog2.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

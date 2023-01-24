@@ -3503,11 +3503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2.Service\\KubraBlog2.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2.Service\\KubraBlog2.Service.csproj",
       "projectName": "KubraBlog2.Service",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2.Service\\KubraBlog2.Service.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2.Service\\KubraBlog2.Service.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2.Service\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3524,8 +3524,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2.Data\\KubraBlog2.Data.csproj": {
-              "projectPath": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2.Data\\KubraBlog2.Data.csproj"
+            "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2.Data\\KubraBlog2.Data.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2.Data\\KubraBlog2.Data.csproj"
             }
           }
         }

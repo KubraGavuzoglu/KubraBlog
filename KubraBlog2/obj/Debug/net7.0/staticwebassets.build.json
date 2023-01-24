@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vLsFiTylAGkgI8S3t6ZPqfGak2Qr4CjN1L8rfg0IxJI=",
+  "Hash": "iZI2G2TNQucy4vJ5cr0K4eu/atzIaSFWRDpj++g82d8=",
   "Source": "KubraBlog.WebUI",
   "BasePath": "_content/KubraBlog.WebUI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "KubraBlog.WebUI\\wwwroot",
       "Source": "KubraBlog.WebUI",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\KubraBlog.WebUI.styles.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\KubraBlog.WebUI.styles.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "KubraBlog.WebUI.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\KubraBlog.WebUI.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\KubraBlog.WebUI.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KubraBlog.WebUI.bundle.scp.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KubraBlog.WebUI.bundle.scp.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "KubraBlog.WebUI.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KubraBlog.WebUI.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KubraBlog.WebUI.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\assets\\demo\\chart-area-demo.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "assets/demo/chart-area-demo.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\assets\\demo\\chart-bar-demo.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "assets/demo/chart-bar-demo.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\assets\\demo\\chart-pie-demo.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "assets/demo/chart-pie-demo.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\assets\\demo\\datatables-demo.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "assets/demo/datatables-demo.js",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\assets\\img\\error-404-monochrome.svg",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "assets/img/error-404-monochrome.svg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\css\\site.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\css\\styles.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\Img\\acer.webp",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\Img\\acer.webp",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "Img/acer.webp",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\acer.webp"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\Img\\canon eos.jpg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\Img\\canon eos.jpg",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "Img/canon eos.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\canon eos.jpg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\Img\\fujiFİlm Instax.jpg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\Img\\fujiFİlm Instax.jpg",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "Img/fujiFİlm Instax.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\fujiFİlm Instax.jpg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\Img\\iphone-14-pro.jpg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\Img\\iphone-14-pro.jpg",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "Img/iphone-14-pro.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\iphone-14-pro.jpg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\Img\\monster abra a5.jpg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\Img\\monster abra a5.jpg",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "Img/monster abra a5.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\monster abra a5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\js\\datatables-simple-demo.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\js\\datatables-simple-demo.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "js/datatables-simple-demo.js",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\js\\datatables-simple-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\js\\scripts2.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\js\\scripts2.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "js/scripts2.js",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scripts2.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\js\\site.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages.zip",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages.zip",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "startbootstrap-sb-admin-gh-pages.zip",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\startbootstrap-sb-admin-gh-pages.zip"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\401.html",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\401.html",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "startbootstrap-sb-admin-gh-pages/401.html",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\startbootstrap-sb-admin-gh-pages\\401.html"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\404.html",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\404.html",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "startbootstrap-sb-admin-gh-pages/404.html",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\startbootstrap-sb-admin-gh-pages\\404.html"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\500.html",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\500.html",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "startbootstrap-sb-admin-gh-pages/500.html",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\startbootstrap-sb-admin-gh-pages\\500.html"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\charts.html",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\charts.html",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "startbootstrap-sb-admin-gh-pages/charts.html",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\startbootstrap-sb-admin-gh-pages\\charts.html"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\index.html",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\index.html",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "startbootstrap-sb-admin-gh-pages/index.html",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\startbootstrap-sb-admin-gh-pages\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-sidenav-light.html",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-sidenav-light.html",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "startbootstrap-sb-admin-gh-pages/layout-sidenav-light.html",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-sidenav-light.html"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-static.html",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-static.html",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "startbootstrap-sb-admin-gh-pages/layout-static.html",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-static.html"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "startbootstrap-sb-admin-gh-pages/login.html",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\password.html",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\password.html",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "startbootstrap-sb-admin-gh-pages/password.html",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\startbootstrap-sb-admin-gh-pages\\password.html"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "startbootstrap-sb-admin-gh-pages/register.html",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\tables.html",
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\startbootstrap-sb-admin-gh-pages\\tables.html",
       "SourceId": "KubraBlog.WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\VisualStudioProjeler\\KubraBlog-2\\KubraBlog2\\KubraBlog2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
       "BasePath": "_content/KubraBlog.WebUI",
       "RelativePath": "startbootstrap-sb-admin-gh-pages/tables.html",
       "AssetKind": "All",
@@ -1477,6 +1477,74 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\startbootstrap-sb-admin-gh-pages\\tables.html"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\Tema-blog\\assets\\favicon.ico",
+      "SourceId": "KubraBlog.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
+      "BasePath": "_content/KubraBlog.WebUI",
+      "RelativePath": "Tema-blog/assets/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Tema-blog\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\Tema-blog\\css\\styles.css",
+      "SourceId": "KubraBlog.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
+      "BasePath": "_content/KubraBlog.WebUI",
+      "RelativePath": "Tema-blog/css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Tema-blog\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\Tema-blog\\index.html",
+      "SourceId": "KubraBlog.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
+      "BasePath": "_content/KubraBlog.WebUI",
+      "RelativePath": "Tema-blog/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Tema-blog\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\Tema-blog\\js\\scripts.js",
+      "SourceId": "KubraBlog.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\KubraBlog\\KubraBlog2\\wwwroot\\",
+      "BasePath": "_content/KubraBlog.WebUI",
+      "RelativePath": "Tema-blog/js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Tema-blog\\js\\scripts.js"
     }
   ]
 }

@@ -43,4 +43,8 @@
     <Folder Include="wwwroot\startbootstrap-sb-admin-gh-pages\js\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Tema-blog\js\scripts.js" />
+  </ItemGroup>
+
 </Project>
