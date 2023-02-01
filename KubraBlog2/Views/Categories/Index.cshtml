@@ -1,8 +1,23 @@
-﻿
+﻿@model Category
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = Model.Name;
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Index</h1>
+<h1>@Model.Name</h1>
 
+@foreach (var item in Model.Posts)
+{
+
+    <div class="card mb-4">
+        <a href="#!"><img class="card-img-top" src="/Img/@item.Image" alt="..." /></a>
+        <div class="card-body">
+            <div class="small text-muted">@item.CreateDate</div>
+            <h2 class="card-title">@item.Name</h2>
+            <p class="card-text">@item.Description </p>
+            <a class="btn btn-primary" href="#!">Read more →</a>
+        </div>
+    </div>
+
+
+}

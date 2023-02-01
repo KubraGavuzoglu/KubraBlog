@@ -9,12 +9,10 @@ using System.Threading.Tasks;
 
 namespace KubraBlog2.Service.Concrete
 {
-    public class PostService : PostRepository, IPostService
+    public class CategoryService : CategoryRepository, ICategoryService
     {
-        public PostService(DatabaseContext _context) : base(_context)
+        public CategoryService(DatabaseContext _context) : base(_context)
         {
-
-
         }
     }
 }

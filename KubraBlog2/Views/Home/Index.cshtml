@@ -14,8 +14,8 @@
         <div class="card-body">
             <div class="small text-muted">@item.CreateDate</div>
             <h2 class="card-title">@item.Name</h2>
-            <p class="card-text">@item.Description</p>
-            <a class="btn btn-primary" href="#!">Read more →</a>
+            <p class="card-text">@item.Description </p>
+            <a class="btn btn-primary"  asp-controller="Post" asp-action="Detail" asp-route-id="@item.Id"  >Read more →</a>
         </div>
     </div>
 
@@ -33,7 +33,7 @@
 
 
 
-
+@*
 <!-- Nested row for non-featured blog posts-->
 <div class="row">
     <div class="col-lg-6">
@@ -95,4 +95,4 @@
         <li class="page-item"><a class="page-link" href="#!">15</a></li>
         <li class="page-item"><a class="page-link" href="#!">Older</a></li>
     </ul>
-</nav>
+</nav>*@

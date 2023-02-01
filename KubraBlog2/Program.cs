@@ -17,7 +17,10 @@ builder.Services.AddDbContext<DatabaseContext>(); // veritabaný tablolarýmýz�
 
 builder.Services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddTransient(typeof(IService<>), typeof(Service<>));
-//builder.Services.AddSingleton<IPostService, PostService>();
+builder.Services.AddTransient<ICategoryService, CategoryService>();
+
+
+builder.Services.AddTransient<IPostService, PostService>();
 
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(x=>
 {
