@@ -1,12 +1,16 @@
-﻿@model Category
+﻿@model IEnumerable<Post>
 @{
-    ViewData["Title"] = Model.Name;
+    ViewData["Title"] = "Arama Sonuçları";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>@Model.Name</h1>
+<h1>Arama Sonuçları</h1>
 
-@foreach (var item in Model.Posts)
+
+
+
+
+@foreach (var item in Model)
 {
 
     <div class="card mb-4">

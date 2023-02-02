@@ -24,5 +24,12 @@ namespace KubraBlog.WebUI.Controllers
             return View(model);
         }
 
+        public async Task<IActionResult> Search(string q)
+        {
+            var model = await _service.GetAllAsync(p=>p.Name.Contains(q));
+
+            return View(model);
+        }
+
     }
 }
