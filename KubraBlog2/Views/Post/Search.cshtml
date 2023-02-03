@@ -7,21 +7,31 @@
 <h1>Arama Sonuçları</h1>
 
 
+ @ViewData["arama"]
 
-
-
-@foreach (var item in Model)
+ @if (Model!=null)
 {
 
-    <div class="card mb-4">
-        <a href="#!"><img class="card-img-top" src="/Img/@item.Image" alt="..." /></a>
-        <div class="card-body">
-            <div class="small text-muted">@item.CreateDate</div>
-            <h2 class="card-title">@item.Name</h2>
-            <p class="card-text">@item.Description </p>
-            <a class="btn btn-primary" asp-controller="Post" asp-action="Detail" asp-route-id="@item.Id">Read more →</a>
+    @foreach (var item in Model)
+    {
+
+        <div class="card mb-4">
+            <a href="#!"><img class="card-img-top" src="/Img/@item.Image" alt="..." /></a>
+            <div class="card-body">
+                <div class="small text-muted">@item.CreateDate</div>
+                <h2 class="card-title">@item.Name</h2>
+                <p class="card-text">@item.Description </p>
+                <a class="btn btn-primary" asp-controller="Post" asp-action="Detail" asp-route-id="@item.Id">Read more →</a>
+            </div>
         </div>
-    </div>
+
+
+    }
+
+
 
 
 }
+
+
+
