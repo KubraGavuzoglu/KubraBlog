@@ -1,7 +1,17 @@
 ﻿@model IEnumerable<Post>
 @{
     ViewData["Title"] = "Ana Sayfa";
+
+   
+
+
 }
+
+
+
+
+
+
 
 <!-- Blog entries-->
 <!-- Featured blog post-->
@@ -14,13 +24,19 @@
         <div class="card-body">
             <div class="small text-muted">@item.CreateDate</div>
             <h2 class="card-title">@item.Name</h2>
-            <p class="card-text">@item.Description </p>
+
+            <p class="card-text "  >  @item.Description </p>
+
+
+
             <a class="btn btn-primary"  asp-controller="Post" asp-action="Detail" asp-route-id="@item.Id"  >Read more →</a>
         </div>
     </div>
 
 
 }
+
+
 
 
 
